@@ -1,0 +1,14 @@
+#frequencyTableDiv{
+	border: 1px solid;
+	background-color: lightgrey;
+	width: 200px;
+	text-align: center;
+	align-content: center;
+}
+
+td{
+	border: 1px solid;
+	background-color: lightcoral;
+	align-content: center;
+	text-align: center;
+}
